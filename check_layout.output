@@ -17,6 +17,11 @@ kann_kannada: Layout includes some ASCII punctuation but not all, missing: #, $,
 latn_colemak: Some keys contain whitespaces, unexpected:  ́
 latn_dvorak: Missing important key, missing: loc capslock
 latn_neo2: Layout redefines the bottom row but some important keys are missing, missing: loc switch_clipboard
+latn_qwerty_us_extended: Duplicate keys: left, right, switch_clipboard
+latn_qwerty_us_extended: Layout contains editing keys, unexpected: copy, cut, paste, pasteAsPlainText, redo, selectAll, shareText, undo
+latn_qwerty_us_extended: Layout contains function keys, unexpected: f1, f10, f11, f12, f2, f3, f4, f5, f6, f7, f8, f9
+latn_qwerty_us_extended: Missing programming keys, missing: loc esc, loc tab
+latn_qwerty_us_extended: Layout redefines the bottom row but some important keys are missing, missing: action, cursor_left, cursor_right, loc alt, loc change_method, loc compose, loc end, loc home, loc meta, loc page_down, loc page_up, loc switch_clipboard, loc switch_greekmath, loc voice_typing, switch_backward, switch_forward, switch_numeric
 latn_qwertz_cz_multifunctional: Layout includes some ASCII punctuation but not all, missing: `
 latn_qwertz_sk: Layout includes some ASCII punctuation but not all, missing: `
 urdu_phonetic_ur: Layout includes some ASCII punctuation but not all, missing: <, >, ?, `, |, ~
